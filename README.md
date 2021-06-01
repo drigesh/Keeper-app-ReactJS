@@ -2,7 +2,7 @@
 
 ### Description
 
-It is for keeping notes or can also be used as a To-DO list, which users can use to save their future events and delete them on completion. It takes two parameters ``` title ``` and ```details``` about the events.
+It is for keeping notes or can also be used as a To-DO list, which users can use to save their future events and delete them on completion. It takes two parameters ``` title ``` and ```details``` about the notes/events.
 
 It has a very simple, attractive and self-explanatory UI.
 
@@ -10,7 +10,7 @@ App can be found **[HERE](https://keeper-reactjs.herokuapp.com/)** or ```https:/
 
 ### Technologies
 
-The app uses _RectJS framework_ for front-end and _```NodeJS```, ```ExpressJS``` and ```MongoDB```_ on the back-end side. Or say it's a ```MERN``` application.
+The app uses _```RectJS framework```_ for front-end and _```NodeJS```, ```ExpressJS``` and ```MongoDB```_ on the back-end side. Or say it's a ```MERN``` application.
 
 Some npm packages are also used like _```mongoose```, ```lodash```, ```dotenv```_, etc.
 
